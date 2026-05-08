@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+.classpath
+.project
+.settings/
+ast/
+bin/
+gen/
+out/
+.gradle
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# API Keys
+.env
+local.properties
+
+# Others
+*.log
+*.bak
+*.swp
